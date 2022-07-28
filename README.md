@@ -13,9 +13,9 @@ In this application,  you will witness my ability to manipulate the DOM.
 
 ## Deployment: 
 
-[GitHub] Repo: https://github.com/al-moreno/AdventureAwaits
+[GitHub] Repo: https://github.com/al-moreno/dice_game
 
-GitHub Pages:  https://al-moreno.github.io/AdventureAwaits/
+GitHub Pages:  https://almoreno.org/
 
 ![picture](image.png)
 
