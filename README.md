@@ -9,7 +9,7 @@
 
 ## Description
 
-In this application,  you will witness my ability to manipulate the DOM. 
+In this application, you will witness my ability to code with HTML & advanced Css while also manipulating the DOM through the use of JavaScript all while respecting the separations of concerns. 
 
 ## Deployment: 
 

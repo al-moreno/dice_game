@@ -17,3 +17,18 @@ let image2 = document.querySelectorAll('img')[1];
 console.log(image2);
 image2.setAttribute('src', randomDiceImage2);
 image2.classList.add('shadow');
+
+
+// manipulate heading depending on the winner
+let header = document.querySelector('h1');
+console.log(header);
+
+if (randomNumber1 > randomNumber2){
+    header = header.innerHTML = ` 🚩<em>Player 1</em><br> is the Winner!`;
+
+    
+} else if (randomNumber1 < randomNumber2){
+    header = header.innerHTML = ` <br><em>Player 2</em><br> is the Winner!🚩`;
+} else {
+    header = header.textContent = "Its a Draw, try again."
+}
