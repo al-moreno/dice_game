@@ -24,9 +24,7 @@ let header = document.querySelector('h1');
 console.log(header);
 
 if (randomNumber1 > randomNumber2){
-    header = header.innerHTML = ` 🚩<em>Player 1</em><br> is the Winner!`;
-
-    
+    header = header.innerHTML = `🚩<em>Player 1</em><br> is the Winner!`;   
 } else if (randomNumber1 < randomNumber2){
     header = header.innerHTML = ` <br><em>Player 2</em><br> is the Winner!🚩`;
 } else {
